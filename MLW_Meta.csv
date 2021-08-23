@@ -1,0 +1,165 @@
+generalcode,category,generalname
+G1,Plastic,"4/6-pack yokes, six-pack rings "
+G3,Plastic,Shopping Bags  incl. pieces
+G4,Plastic,"Small plastic bags, e.g. freezer bags incl. pieces"
+G5,Plastic,Plastic bags collective role; what remains from rip-off plastic bags
+G7,Plastic,Drink bottles  <=0.5l
+G8,Plastic,Drink bottles  >0.5l
+G9,Plastic,Cleaner bottles & containers
+G10,Plastic,Food containers incl. fast food containers
+G11,Plastic,"Beach use related cosmetic bottles and containers, eg. Sunblocks"
+G12,Plastic,Other cosmetics bottles & containers
+G13,Plastic,Other bottles & containers (drums)
+G14,Plastic,Engine oil bottles & containers <50 cm
+G15,Plastic,Engine oil bottles & containers > 50 cm
+G16,Plastic,Jerry cans (square plastic containers with handle)
+G17,Plastic,Injection gun containers
+G18,Plastic,Crates and containers / baskets
+G19,Plastic,Car parts
+G21,Plastic,Plastic caps/lids drinks
+G22,Plastic,"Plastic caps/lids chemicals, detergents (non-food)"
+G23,Plastic,Plastic caps/lids unidentified
+G24,Plastic,Plastic rings from bottle caps/lids
+G25,Plastic,Tobacco pouches / plastic cigarette box packaging 
+G26,Plastic,Cigarette lighters 
+G27,Plastic,Cigarette butts and filters
+G28,Plastic,Pens and pen lids
+G29,Plastic,Combs/hair brushes/sunglasses
+G30,Plastic,Crisps packets/sweets wrappers
+G31,Plastic,Lolly sticks
+G32,Plastic,Toys and party poppers
+G33,Plastic,Cups and cup lids
+G34,Plastic,Cutlery and trays
+G35,Plastic,Straws and stirrers
+G36,Plastic,Fertiliser/animal feed bags
+G37,Plastic,Mesh vegetable bags
+G40,Plastic,Gloves (washing up)
+G41,Plastic,Gloves (industrial/professional rubber gloves)
+G42,Plastic,Crab/lobster pots and tops
+G43,Plastic,Tags (fishing and industry)
+G44,Plastic,Octopus pots (plastic)
+G45,Plastic,"Mussels nets, Oyster nets"
+G46,Plastic,Oyster trays (round from oyster cultures)
+G47,Plastic,Plastic sheeting from mussel culture (Tahitians)
+G49,Plastic,Rope (diameter more than 1cm)
+G50,Plastic,String and cord (diameter less than 1cm)
+G52,Plastic,Nets and pieces of net
+G53,Plastic,Nets and pieces of net < 50 cm
+G54,Plastic,Nets and pieces of net > 50 cm
+G56,Plastic,Tangled nets/cord
+G57,Plastic,Fish boxes - plastic
+G58,Plastic,Fish boxes - expanded polystyrene
+G59,Plastic,Fishing line/monofilament (angling)
+G60,Plastic,Light sticks (tubes with fluid) incl. packaging
+G62,Plastic,Floats for fishing nets
+G63,Plastic,Buoys 
+G64,Plastic,Fenders
+G65,Plastic,Buckets
+G66,Plastic,Strapping bands
+G67,Plastic,"Sheets, industrial packaging, plastic sheeting"
+G68,Plastic,Fibre glass/fragments
+G69,Plastic,Hard hats/Helmets
+G70,Plastic,Shotgun cartridges
+G71,Plastic,Shoes/sandals
+G72,Plastic,Traffic cones
+G73,Plastic,Foam sponge
+G76,Plastic,Plastic/polystyrene pieces 2.5 cm > < 50cm
+G77,Plastic,Plastic/polystyrene pieces > 50 cm
+G79,Plastic,Plastic pieces 2.5 > < 50 cm
+G80,Plastic,Plastic pieces > 50 cm
+G82,Plastic,Polystyrene pieces 2.5 cm > < 50 cm
+G83,Plastic,Polystyrene pieces > 50 cm
+G84,Plastic,"CD, CD-box"
+G85,Plastic,Salt packaging
+G86,Plastic,Fin trees (from fins for scubadiving)
+G87,Plastic,Masking tape 
+G88,Plastic,Telephone (incl. parts)
+G89,Plastic,plastic construction waste
+G90,Plastic,Plastic flower pots
+G91,Plastic,Biomass holder from sewage treatment plants
+G92,Plastic,Bait containers/packaging
+G93,Plastic,Cable ties
+G95,Plastic,Cotton bud sticks
+G96,Plastic,Sanitary towels/panty liners/backing strips
+G97,Plastic,Toilet fresheners
+G98,Plastic,Diapers/nappies
+G99,Plastic,Syringes/needles
+G100,Plastic,Medical/Pharmaceuticals containers/tubes
+G101,Plastic,Dog feces bag
+G102,Plastic,Flip-flops
+G124,Plastic,Other plastic/polystyrene items (identifiable)
+G125,Rubber,Balloons and balloon sticks
+G126,Rubber,Balls
+G127,Rubber,Rubber boots
+G128,Rubber,Tyres and belts
+G129,Rubber,Inner-tubes and rubber sheet
+G130,Rubber,Wheels
+G131,Rubber,"Rubber bands (small, for kitchen/household/post use)"
+G132,Rubber,Bobbins (fishing) 
+G133,Rubber,Condoms (incl. packaging)
+G134,Rubber,Other rubber pieces
+G137,Cloth/textile,"Clothing / rags (clothing, hats, towels) "
+G138,Cloth/textile,"Shoes and sandals (e.g. Leather, cloth)"
+G139,Cloth/textile,Backpacks & bags
+G140,Cloth/textile,Sacking (hessian) 
+G141,Cloth/textile,Carpet & Furnishing
+G142,Cloth/textile,"Rope, string and nets"
+G143,Cloth/textile,"Sails, canvas "
+G144,Cloth/textile,Tampons and tampon applicators
+G145,Cloth/textile,Other textiles (incl. rags)
+G147,Paper/Cardboard,Paper bags
+G148,Paper/Cardboard,Cardboard (boxes & fragments) 
+G150,Paper/Cardboard,Cartons/Tetrapack Milk
+G151,Paper/Cardboard,Cartons/Tetrapack (others)
+G152,Paper/Cardboard,Cigarette packets
+G153,Paper/Cardboard,"Cups,  food  trays,  food  wrappers,  drink containers "
+G154,Paper/Cardboard,Newspapers & magazines
+G155,Paper/Cardboard,Tubes for fireworks 
+G156,Paper/Cardboard,Paper fragments
+G158,Paper/Cardboard,Other paper items
+G159,Processed/worked wood,Corks
+G160,Processed/worked wood,Pallets
+G161,Processed/worked wood,Processed timber
+G162,Processed/worked wood,Crates
+G163,Processed/worked wood,Crab/lobster pots
+G164,Processed/worked wood,Fish boxes
+G165,Processed/worked wood,"Ice-cream sticks, chip forks, chopsticks & toothpicks "
+G166,Processed/worked wood,Paint brushes
+G167,Processed/worked wood,Matches & fireworks 
+G171,Processed/worked wood,Other wood < 50 cm
+G172,Processed/worked wood,Other wood > 50 cm
+G174,Metal,Aerosol/Spray cans industry
+G175,Metal,Cans (bevarage) 
+G176,Metal,Cans (food)
+G177,Metal,"Foil wrappers, aluminum foil"
+G178,Metal,"Bottle caps, lids & pull tabs "
+G179,Metal,Disposable BBQ's
+G180,Metal,"Appliances (refrigerators, washers, etc.)"
+G181,Metal,"Tableware (plates, cups & cutlery) "
+G182,Metal,"Fishing related (weights, sinkers, lures, hooks) "
+G184,Metal,Lobster/crab pots
+G186,Metal,Industrial scrap
+G187,Metal,"Drums, e.g. oil"
+G188,Metal,Other cans (< 4 L) 
+G189,Metal,"Gas bottles, drums & buckets ( > 4 L) "
+G190,Metal,Paint tin
+G191,Metal,"Wire, wire mesh, barbed wire"
+G193,Metal,Car parts / batteries
+G194,Metal,Cables 
+G195,Metal,Household Batteries 
+G198,Metal,Other metal pieces < 50 cm
+G199,Metal,Other metal pieces > 50 cm
+G200,Glass/ceramics,Bottles incl. pieces
+G201,Glass/ceramics,Jars incl. pieces
+G202,Glass/ceramics,Light bulbs
+G203,Glass/ceramics,Tableware (plates & cups) 
+G204,Glass/ceramics,"Construction material (brick, cement, pipes) "
+G205,Glass/ceramics,Fluorescent light tubes 
+G206,Glass/ceramics,Glass buoys 
+G207,Glass/ceramics,Octopus pots
+G208,Glass/ceramics,Glass or ceramic fragments > 2.5 cm
+G210,Glass/ceramics,Other glass items
+G211,unidentified,"Other medical items (swabs, bandaging, adhesive plaster etc.)"
+G213,Chemicals,Paraffin/Wax
+G301,Cloth/textile,Disposable mask
+G302,Cloth/textile,Disposable glove
