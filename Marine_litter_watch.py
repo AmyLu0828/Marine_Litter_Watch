@@ -385,7 +385,7 @@ if option == 'Factors':
     st.markdown("")
     
     #Sandy vs. Rocky vs. Pebbles
-    st.markdown("## 2. The Type of Beach")
+    st.markdown("## 3. The Type of Beach")
     
     sandy = bycountry.loc[bycountry['BeachType'] == 'Sandy']['totaltrash']
     rocky = bycountry.loc[bycountry['BeachType'] == 'Rocky']['totaltrash']
@@ -539,7 +539,7 @@ if option == 'Factors':
     baltic_zoomin = bycountry_zoomin.loc[bycountry_zoomin['BeachRegionalSea'] == 'Baltic Sea']['totaltrash']
     nea_zoomin = bycountry_zoomin.loc[bycountry_zoomin['BeachRegionalSea'] == 'North-east Atlantic Ocean']['totaltrash']
     
-    st.markdown("## 3. Regional Sea")
+    st.markdown("## 4. Regional Sea")
     col1, col2 = st.beta_columns([1, 1])
     with col1:
         st.markdown("")
